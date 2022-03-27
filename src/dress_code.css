@@ -34,7 +34,11 @@ body{
 }
 
 .mg-bottom-10{
-    margin-bottom: 10px;
+    margin-bottom: 10px !important;
+}
+
+.mg-bottom-15{
+    margin-bottom: 15px !important;
 }
 
 .no-margin{
